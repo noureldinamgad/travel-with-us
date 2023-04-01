@@ -1,0 +1,90 @@
+h1 {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Acme;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 45px;
+    letter-spacing: 0px;
+    margin-left: 65px;
+
+}
+h4 {
+    font-family: Barlow Condensed;
+    margin-left: 120px;
+}
+img {
+    width: 760px;
+    height: 500px;
+	
+}
+#t {
+    margin-left: 53px;
+}
+#label{
+
+    border-radius: 15px;
+    padding: 0;
+    outline: 0;
+    background: transparent;
+    width: 200px;
+    margin-left: 70px;
+
+}
+#label2{
+   
+   border-radius: 15px;
+    padding: 0;
+    outline: 0;
+    background: transparent;
+    width: 200px;
+    margin-left: 70px;
+
+}
+#num {
+    margin-left: 100px;
+}
+#wg {
+    margin-left: 123px;
+}
+#em {
+margin-left: 106px;
+}
+#emm {
+   margin-left: 77px;  
+   border-radius: 15px;
+    padding: 0;
+    outline: 0;
+    background: transparent;
+    width: 200px;
+    margin-left: 70px;
+}
+.btn-primary{
+    margin-left: 175px;
+}
+.hm {
+    margin-left: 162px;
+    margin-top: 10px;
+    color: white;
+    background-color: #0d6efd;
+    border-radius: 0.375rem;
+   }
+.containercrd{
+display: flex;
+flex-direction: column;
+margin-left: 37px;
+margin-top: -11px;
+width: 470px;
+
+}
+.containerimg{
+    width: 580px;
+    height: 400px;
+}
+
+.all{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
